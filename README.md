@@ -2,6 +2,7 @@
 
 
 ![](https://komarev.com/ghpvc/?username=emrecanarik&color=ae1e2c&style=for-the-badge&label=VISITS)
+![](https://hit.yhype.me/github/profile?user_id=51844843)
 
 <!--
 **emrecanarik/emrecanarik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
